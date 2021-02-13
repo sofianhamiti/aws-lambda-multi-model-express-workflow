@@ -1,0 +1,7 @@
+aws-cdk.core==1.89.0
+aws-cdk.aws-lambda==1.89.0
+aws-cdk.aws_ecr==1.89.0
+aws-cdk.aws_iam==1.89.0
+aws-cdk.aws_apigatewayv2==1.89.0
+aws-cdk.aws_stepfunctions==1.89.0
+aws-cdk.aws_stepfunctions_tasks==1.89.0
