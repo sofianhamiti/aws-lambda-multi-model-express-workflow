@@ -24,6 +24,7 @@ ipython_config.py
 
 # pyenv
 .python-version
+.venv/
 
 .idea/
 **/.DS_Store
